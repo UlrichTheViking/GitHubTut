@@ -17,6 +17,8 @@ class ViewController: UIViewController {
     // Changes in master!!!
     
     // More changes in master :D
+    
+    // No more branches!!!
   }
 
   override func didReceiveMemoryWarning() {
