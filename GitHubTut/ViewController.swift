@@ -28,6 +28,8 @@ class ViewController: UIViewController {
     // First thing on the branch
     
     // Second thing on the branch
+    
+    // Last change before merge
   }
 
 
